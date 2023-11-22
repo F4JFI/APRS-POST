@@ -1,6 +1,6 @@
 # APRS-POST
 <h1 align="center">Hi 👋, I'm Sylvain</h1>
-<h3 align="center">A passionate maker from France</h3>
+<h3 align="center">A passionate French Maker</h3>
 <h3 align="center">Script bash pour poster la météo sur le réseau APRS</h3>
 <h3 align="center">⚠️ ID APRS nécessaire ⚠️</h3>
 <h3 align="left">Connect with me:</h3>
